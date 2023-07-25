@@ -25,6 +25,6 @@ Spatial data can take many forms: for the purposes of this walkthrough, we are u
 > Let’s reflect! Download the dataset CSV, look through it, and think about what you see…
 > * What do you notice about this data?
 > * What questions do you think this dataset might help to answer, if visualized on a map?
-Design & Accessibility
-* [Best Practices for Map Design: An Introduction](https://proceedings.esri.com/library/userconf/fed16/papers/fed_86.pdf), Leff, Davis-Holland, & Ducey (2016 presentation)​
-* [Improving Accessibility with ArcGIS Online Web Mapping Apps](https://www.doi.gov/ocio/section508/video3) (US Department of the Interior, 2019 presentation)​
+
+Next: [Web Maps](/sections/01-web-maps.md) →
+
