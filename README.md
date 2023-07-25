@@ -1,5 +1,5 @@
-# arcgis-online-tutorial
-This is a tutorial on the basics of mapping in ArcGIS Online, geared towards Grinnell College students, faculty, and staff. This guide focuses on the Classic Map Viewer.
+# ArcGIS Online Tutorial for Mapping Spanish Detective Fiction
+This is a tutorial on the basics of mapping in ArcGIS Online for Mapping Spanish Detective Fiction students.
 
 ## Table of Contents
 1. [What is ArcGIS Online?](#what-is-arcgis-online)
