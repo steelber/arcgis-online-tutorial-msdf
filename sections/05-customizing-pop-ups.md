@@ -1,4 +1,3 @@
----
 
 ← [Importing and Styling Layers](/sections/04-importing-and-styling-layers.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Adding Additional Layers](/sections/06-adding-additional-layers.md) →
 
@@ -30,5 +29,3 @@ Don’t forget to click the **OK** button at the bottom of the pane when you’r
 ---
 
 ← [Importing and Styling Layers](/sections/04-importing-and-styling-layers.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Adding Additional Layers](/sections/06-adding-additional-layers.md) →
-
----
