@@ -12,11 +12,11 @@ Simply click the **Layers** button in the left-hand menu and then click the **Ad
 * **Living Atlas** to search for data layers that have been vetted by Esri, the maker of ArcGIS Online – many of these are demographic data layers (like census data)
 * **ArcGIS Online** to search all of what has been shared publicly in ArcGIS Online
 
-![Screenshot of the ArcGIS Online layer selection sources](/images/AO-new-layer-selection-sources.png)
+![Screenshot of the ArcGIS Online layer selection sources]({{ site.baseurl }}/images/AO-new-layer-selection-sources.png)
 
 You can then use the search bar to look for more specific layers. For example, you can search Living Atlas for demographic data, such as average household income or average household spending in Spain.
 
-![Screenshot of the ArcGIS Online Living Atlas layer search](/images/AO-new-living-atlas-search.png)
+![Screenshot of the ArcGIS Online Living Atlas layer search]({{ site.baseurl }}/images/AO-new-living-atlas-search.png)
 
 Click the **+ Add** button at the bottom right of the layer to add it to your map.
 
