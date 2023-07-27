@@ -1,4 +1,4 @@
-← [Web Maps](/01-web-maps.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Map Accessibility](/03-map-accessibility.md) →
+← [Web Maps](01-web-maps.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Map Accessibility](03-map-accessibility.md) →
 
 ## Layers
 What’s a layer? A layer is a collection of specific geographic data added to your map. Maps can have multiple layers that can be shown concurrently or hidden as needed to allow you to interrogate the interactions of multiple datasets or to focus where you need to.
@@ -18,7 +18,7 @@ There are a couple different ways to add layers – for the purposes of this tut
 
 Once a layer has been added to your map, a variety of options appear for you when you hover over a layer’s name in the Content menu of your map. You can use the checkbox by the layer’s name to show/hide layers as needed.
 
-![Screenshot of the ArcGIS Online layer menu options](/Images/AO-Layer-Menu.png)
+![Screenshot of the ArcGIS Online layer menu options](/images/AO-Layer-Menu.png)
 
 From left to right:
 * The **Show Legend** button pops out your layer’s legend for you.
@@ -29,7 +29,7 @@ From left to right:
 ** Per Esri: “If your map has a layer with a large number of points, you can configure clustering to make it easier to visually extract meaningful information from your data.” (Source: [Configure clustering](https://doc.arcgis.com/en/arcgis-online/reference/configure-clustering.htm))
 * The **More Options** button lets you select from a variety of other customization and viewing options, as needed.
 
-![Screenshot of the ArcGIS Online layer menu "More Options"](/Images/AO-More-Options.png)
+![Screenshot of the ArcGIS Online layer menu "More Options"](/images/AO-More-Options.png)
 
 ### Making Copies of Layers
 You may find it helpful to make copies of your layers, so you can use the separate copies to analyze different aspects of the data. To do so, simply click the “more options” button under the layer’s name when you hover over it, and select **Copy**. You can rename your copy using the **Rename** option under the same more options menu.
@@ -53,13 +53,13 @@ For numeric data (acreage, ages, number of people in a household, number of gran
 * Types (Unique symbols), which shows different categories as different colors
 * and for points data, Heat Map, which shows areas of high activity in colors that appear “hotter”
 
-![Screenshot of an ArcGIS Online map. On the left, a pane with layer visualization choices, with Counts and Amounts (sizes) option selected. And on the right, a map with points plotted for the town of Grinnell in 1900.](/Images/AO-Layers-Counts-and-Amounts-Size-i-Dark.png)
+![Screenshot of an ArcGIS Online map. On the left, a pane with layer visualization choices, with Counts and Amounts (sizes) option selected. And on the right, a map with points plotted for the town of Grinnell in 1900.](/images/AO-Layers-Counts-and-Amounts-Size-i-Dark.png)
 
 Click the **Options** button at the center of the selected drawing style to customize the visualization on your map. Each of the options outlined can be customized – both the visual aspects (like size, color, symbol, transparency) and some of the numeric aspects (such as data classification and breakpoints).
 
-![Screenshot of the options for customizing a data visualization option in ArcGIS Online](/Images/AO-Layers-Counts-and-Amount-Size-Options-i.png)
+![Screenshot of the options for customizing a data visualization option in ArcGIS Online](/images/AO-Layers-Counts-and-Amount-Size-Options-i.png)
 
-![Screenshot of the options for customizing a data visualization symbol in ArcGIS Online](/Images/AO-Layers-Counts-and-Amount-Size-Symbol-Options.png)
+![Screenshot of the options for customizing a data visualization symbol in ArcGIS Online](/images/AO-Layers-Counts-and-Amount-Size-Symbol-Options.png)
 
 After selecting an attribute from the dropdown, you can click **Add attribute** to add a second attribute, if certain conditions are met: namely, one of the attributes must be a numeric one and the other must be a categorical one. You can then customize the appearances of both. You can use this feature to map two attributes at once, for example, Total Household size and whether the family owns or rents their home. If the two attributes you want to map cannot be mapped together on a single layer, you can create multiple layers and adjust their transparencies to show overlap or showcase them in separate map images. Once you’re finished customizing, make sure to click the blue **Done** button at the bottom of the viewing pane to make sure your changes are saved.
 
@@ -71,7 +71,7 @@ After selecting an attribute from the dropdown, you can click **Add attribute** 
 ### Configuring Pop-Ups
 You can configure the pop-ups that appear when you click on your data points. By default, they show all of the information from that point’s row in your data table – but some or most of this information may not be needed depending on what you are trying to showcase with your map. To configure a pop-up, hover over the layer you’re working with and click the **More Options** button, then the **Configure Pop-Up** option.
 
-![Screenshot of the ArcGIS Online configure pop-up options](/Images/AO-Layers-Configure-Pop-Up.png)
+![Screenshot of the ArcGIS Online configure pop-up options](/images/AO-Layers-Configure-Pop-Up.png)
 
 At the top of the pane, you can select a pop-up title based on an attribute. In the **Display** dropdown below, you can decide if you want to display:
 * a list of attributes (which you can customize below using the **Configure Attributes** – you can choose which ones you want to appear)
@@ -79,7 +79,7 @@ At the top of the pane, you can select a pop-up title based on an attribute. In 
 * a custom attribute display
 * no attribute information
 
-![Screenshot of the ArcGIS Online pop-up custom attribute display pane](/Images/AO-Layers-Custom-Pop-Up.png)
+![Screenshot of the ArcGIS Online pop-up custom attribute display pane](/images/AO-Layers-Custom-Pop-Up.png)
 
 Don’t forget to click the **OK** button at the bottom of the pane when you’re done customizing your pop-up, to save your changes. In the case of a custom attribute display, you can click the green Configure button and lay out the information you want to display. You will see a basic text editor for formatting, and you can use the small + button to pull in the IDs of the attributes you want to display. When you’re finished, click the blue OK button at the bottom of your text box.
 
@@ -89,4 +89,4 @@ In the case of this data, the attribute fields may be somewhat opaque to someone
 
 > Let’s reflect: how do external map elements like this pop-up influence the viewing experience? How do you think they could or should be used most effectively?
 
-← [Web Maps](/01-web-maps.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Map Accessibility](/03-map-accessibility.md) →
+← [Web Maps](01-web-maps.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Map Accessibility](03-map-accessibility.md) →
