@@ -35,7 +35,6 @@ You can update your hosted feature layer if you add more data or make correction
 3. Click the **Update** button in the menu on the right.
 4. Choose the **Overwrite entire feature layer** option.
 5. Upload your corrected data file – please note that the file name of the updated layer needs to be the same as the name of the file originally uploaded to ArcGIS Online.
-6. Make sure locations are matched.
 7. Save and update the data.
 
 FYI the field names in the updated layer need to be the same the names of the fields in the file originally uploaded to ArcGIS Online (see Data tab). No new fields will be accepted.
