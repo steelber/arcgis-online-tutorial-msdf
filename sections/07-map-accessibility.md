@@ -1,4 +1,3 @@
----
 
 ← [Adding Additional Layers](/sections/06-adding-additional-layers.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Sharing Your Content](/sections/08-sharing-your-content.md) →
 
@@ -23,5 +22,3 @@ You can use these resources to check your work:
 ---
 
 ← [Adding Additional Layers](/sections/06-adding-additional-layers.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Sharing Your Content](/sections/08-sharing-your-content.md) →
-
----
