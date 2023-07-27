@@ -1,5 +1,5 @@
 
-← [Map Accessibility](/sections/07-map-accessibility.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Help and Resources](/sections/09-help-and-resources.md) →
+← [Map Accessibility](/07-map-accessibility.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Help and Resources](/09-help-and-resources.md) →
 
 ---
 
@@ -46,4 +46,4 @@ You can very easily a pull an ArcGIS Online map into a StoryMap to provide narra
 
 ---
 
-← [Map Accessibility](/sections/07-map-accessibility.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Help and Resources](/sections/09-help-and-resources.md) →
+← [Map Accessibility](/07-map-accessibility.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Help and Resources](/09-help-and-resources.md) →
