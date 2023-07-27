@@ -33,5 +33,3 @@ Spatial data can take many forms: for the purposes of this walkthrough, we are u
 ---
 
 Get Started with [Uploading Data](/sections/02-uploading-data.md) →
-
----
