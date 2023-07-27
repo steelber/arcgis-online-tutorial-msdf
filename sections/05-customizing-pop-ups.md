@@ -4,12 +4,12 @@
 
 ---
 
-# Configuring Pop-Ups
+# Customizing Pop-Ups
 What is a pop-up? A pop-up is the box of descriptive information that appears when a map viewer clicks on a point or feature on a map.
 
 ## Pop-Up Configuration
 
-You can configure the pop-ups that appear when a viewer clicks on your data points. By default, they show a table with all of the information from that point’s row in your spreadsheet – but some or most of this information may not be needed depending on what you are trying to showcase with your map. To configure your layer's pop-upw, click the **Pop-ups** button in the right-hand menu, then the **Configure Pop-Up** option.
+You can configure the pop-ups that appear when a viewer clicks on your data points. By default, they show a table with all of the information from that point’s row in your spreadsheet – but some or most of this information may not be needed depending on what you are trying to showcase with your map.
 
 ![Screenshot of the ArcGIS Online pop-up menu of options](/images/AO-new-popup-menu.png)
 
