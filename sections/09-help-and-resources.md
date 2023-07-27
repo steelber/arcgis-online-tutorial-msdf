@@ -1,5 +1,5 @@
 
-← [Sharing Your Content](/sections/08-sharing-your-content.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Back to Start](../README.md) ↺
+← [Sharing Your Content](/08-sharing-your-content.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Back to Start](../README.md) ↺
 
 ---
 
@@ -22,4 +22,4 @@ Design & Accessibility
 
 ---
 
-← [Sharing Your Content](/sections/08-sharing-your-content.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Back to Start](../README.md) ↺
+← [Sharing Your Content](/08-sharing-your-content.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Back to Start](../README.md) ↺
