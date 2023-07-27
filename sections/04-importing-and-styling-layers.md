@@ -1,5 +1,5 @@
 
-← [Creating a Web Map](/sections/03-creating-a-web-map.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Customizing Pop-Ups](/05-customizing-pop-ups.md) →
+← [Creating a Web Map](/03-creating-a-web-map.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Customizing Pop-Ups](/05-customizing-pop-ups.md) →
 
 ---
 
@@ -66,4 +66,4 @@ After selecting an attribute from the dropdown, you can click the **+ Field** bu
 
 ---
 
-← [Creating a Web Map](/sections/03-creating-a-web-map.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Customizing Pop-Ups](/05-customizing-pop-ups.md) →
+← [Creating a Web Map](/03-creating-a-web-map.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Customizing Pop-Ups](/05-customizing-pop-ups.md) →
