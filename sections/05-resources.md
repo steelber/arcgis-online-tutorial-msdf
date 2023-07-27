@@ -1,4 +1,4 @@
-← [Sharing](/04-sharing.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Start](../README.md) ↺
+← [Sharing](04-sharing.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Start](../README.md) ↺
 
 
 # Resources & Documentation
