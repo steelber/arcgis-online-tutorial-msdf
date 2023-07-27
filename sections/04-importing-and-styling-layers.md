@@ -20,8 +20,6 @@ Your layer will appear on the map with its location points, and the layer's Prop
 
 You can use the eye icon that appears when you hover over a layer’s name to show/hide layers as needed.
 
-![Screenshot of the ArcGIS Online layer menu options](/images/AO-new-layer-menu.png)
-
 From top to bottom:
 * **Properties** (like transparency, visibility levels...)
 * **Styles**: select and style the attributes you want to map
