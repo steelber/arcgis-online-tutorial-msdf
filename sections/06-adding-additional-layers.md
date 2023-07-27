@@ -1,5 +1,5 @@
 
-← [Customizing Pop-Ups](/sections/05-customizing-pop-ups.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Map Accessibility](/sections/07-map-accessibility.md) →
+← [Customizing Pop-Ups](/05-customizing-pop-ups.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Map Accessibility](/07-map-accessibility.md) →
 
 ---
 
@@ -28,4 +28,4 @@ You can customize the styling, properties, and pop-ups of your newly added layer
 
 ---
 
-← [Customizing Pop-Ups](/sections/05-customizing-pop-ups.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Map Accessibility](/sections/07-map-accessibility.md) →
+← [Customizing Pop-Ups](/05-customizing-pop-ups.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Map Accessibility](/07-map-accessibility.md) →
