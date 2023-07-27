@@ -1,7 +1,7 @@
 This is a tutorial on the basics of mapping in ArcGIS Online for Mapping Spanish Detective Fiction students.
 
 ## Table of Contents
-1. [What is ArcGIS Online?](/sections/01-what-is-arcgis-online.md)
+1. [What is ArcGIS Online?](/README.md)
 2. [Uploading Data](sections/02-uploading-data.md)
 3. [Creating a Web Map](/sections/03-creating-a-web-map.md)
 4. [Importing and Styling Layers](/sections/04-importing-and-styling-layers.md)
