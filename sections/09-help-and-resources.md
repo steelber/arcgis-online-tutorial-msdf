@@ -8,9 +8,9 @@
 # Help and Resources
 ## Campus Resources
 * [Vivero Digital Fellows](https://vivero.sites.grinnell.edu/peer-mentoring/) hold regular drop-in hours to support Grinnell College students with digital assignments.
-  ** Drop by the Burling Library Media Room (lower level) Sundays through Thursdays between 7 and 9 PM.
+    ** Drop by the Burling Library Media Room (lower level) Sundays through Thursdays between 7 and 9 PM.
 * [DLAC](https://dlac.grinnell.edu/) staff are available to help you with your digital work in this class.
-  ** Email dlac@grinnell.edu for assistance!
+    ** Email dlac@grinnell.edu for assistance!
 
 ### Documentation
 ArcGIS Online Documentation
