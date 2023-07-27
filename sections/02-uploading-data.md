@@ -10,7 +10,7 @@ What's a hosted feature layer? ArcGIS Online allows you to publish a layer (a co
 ## Creating a Hosted Feature Layer
 You will upload your spreadsheet of detective novel location data to ArcGIS Online as a hosted feature layer, so that you can pull it into your map and share it with your classmates.
 
-Make sure your data spreadsheet is ready to upload: once it is uploaded to ArcGIS Online, you can change and update the data itself as needed, but you will not be able to 
+Make sure your data spreadsheet is ready to upload: once it is uploaded to ArcGIS Online, you can change and update the data itself as needed, but you will not be able to change the data structure (spreadsheet headings and categories) without needing to upload a new hosted feature layer.
 
 1. Export your spreadsheet data file as a **CSV**.
 ** If using Excel in the browser, you will need to download your file and convert it from the Excel software application on a computer (as Offcie365 does not let you save as a CSV): go to File > Save As, and select CSV/Comma Separated Values from the dropdown.
