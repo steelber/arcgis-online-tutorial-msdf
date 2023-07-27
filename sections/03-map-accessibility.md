@@ -1,4 +1,4 @@
-← [Layers](/02-layers.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Sharing](/04-sharing.md) →
+← [Layers](02-layers.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Sharing](04-sharing.md) →
 
 # Map Accessibility
 What is web accessibility? “Web accessibility is the inclusive practice of ensuring there are no barriers that prevent interaction with, or access to, websites on the World Wide Web by people with physical disabilities, situational disabilities, and socio-economic restrictions on bandwidth and speed.” (Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility)). As you create your map, keep accessibility at the forefront of your mind:
@@ -12,4 +12,4 @@ You can use these resources to check your work:
 
 > Let’s reflect: what choices do you make as map creators that impact the accessibility of your maps for your viewers? What are some concrete examples of accessible features on a web map? What else do you need to keep in mind?
 
-← [Layers](/02-layers.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Sharing](/04-sharing.md) →
+← [Layers](02-layers.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Sharing](04-sharing.md) →
