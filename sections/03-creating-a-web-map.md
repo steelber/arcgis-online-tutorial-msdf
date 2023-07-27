@@ -24,7 +24,7 @@ You can customize the way your map looks by clicking **Basemap** in the sidebar 
 ## Saving Your Map
 Click the **Save** button in the sidebar menu of the map view, then click **Save As** to save a new map or a new copy of an existing map: you will be prompted to give your new map a title and tags (required, but you can choose any you would like), and to add a summary, if desired. If you are working with a pre-existing map, just click **Save** to keep saving it to the same place – *make sure to do this regularly while you are working so your changes are saved*. 
 
-![Screenshot of the ArcGIS Online map menu](/images/AO-new-map-menu.png)
+![Screenshot of the save menu on an ArcGIS Online](/images/AO-new-save.png)
 
 ## Returning to an Existing Map
 Click **Content** in the top level menu (available when you click the **Home** button if you are currently viewing a map or other content) to see all your saved content and return to an existing map. Click the title of an existing map, then click the **Open in Map Viewer** button (top right) to continue editing.
