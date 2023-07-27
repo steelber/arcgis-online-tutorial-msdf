@@ -10,7 +10,7 @@ What’s a web map? Esri, the company behind ArcGIS and ArcGIS Online, describes
 ## Creating a New Map
 Click **Map** in the top level menu of your ArcGIS Online homepage to create a new map. From there, you will be taken to a new blank map for you to make your own!
 
-![Screenshot of the ArcGIS Online user homepage](/images/AO-homepage.png)
+![Screenshot of a new blank map in ArcGIS Online](/images/AO-new-blank-map.png)
 
 *Note: for the purposes of this tutorial, we are using the new Map Viewer. If your map looks different from the screenshots, you can click “Open in Map Viewer" at the top right of the map menu to switch over to the new viewer.*
 
