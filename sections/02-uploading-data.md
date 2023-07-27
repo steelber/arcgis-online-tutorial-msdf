@@ -1,4 +1,3 @@
----
 
 ↻ [Start](../README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Creating a Web Map](/sections/03-creating-a-web-map.md) →
 
@@ -42,5 +41,3 @@ FYI the field names in the updated layer need to be the same the names of the fi
 ---
 
 ↻ [Start](../README.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Creating a Web Map](/sections/03-creating-a-web-map.md) →
-
----
