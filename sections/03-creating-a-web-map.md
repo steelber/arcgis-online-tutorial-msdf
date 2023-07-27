@@ -1,5 +1,5 @@
 
-← [Uploading Data](/sections/02-uploading-data.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Importing and Styling Layers](/sections/04-importing-and-styling-layers.md) →
+← [Uploading Data](/sections/02-uploading-data.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Importing and Styling Layers](/04-importing-and-styling-layers.md) →
 
 ---
 
@@ -30,4 +30,4 @@ Click **Content** in the top level menu (available when you click the **Home** b
 
 ---
 
-← [Uploading Data](/sections/02-uploading-data.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Importing and Styling Layers](/sections/04-importing-and-styling-layers.md) →
+← [Uploading Data](/sections/02-uploading-data.md)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Importing and Styling Layers](/04-importing-and-styling-layers.md) →
