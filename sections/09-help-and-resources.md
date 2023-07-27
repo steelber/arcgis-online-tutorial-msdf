@@ -13,8 +13,8 @@
 
 ### Documentation
 ArcGIS Online Documentation
-* ArcGIS Online [resources and tutorials](https://www.esri.com/en-us/arcgis/products/arcgis-online/resources) from Esri​
-* ArcGIS Online [“getting started” documentation](https://doc.arcgis.com/en/arcgis-online/get-started/get-started.htm) from Esri​
+* ArcGIS Online [resources and tutorials](https://www.esri.com/en-us/arcgis/products/arcgis-online/resources) from Esri​ (the maker of ArcGIS tools)
+* ArcGIS Online [“getting started” documentation](https://doc.arcgis.com/en/arcgis-online/get-started/get-started.htm) from Esri​ (the maker of ArcGIS tools)
 
 Design & Accessibility
 * [Best Practices for Map Design: An Introduction](https://proceedings.esri.com/library/userconf/fed16/papers/fed_86.pdf), Leff, Davis-Holland, & Ducey (2016 presentation)
