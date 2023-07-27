@@ -26,6 +26,7 @@ You'll want to make sure to share your hosted feature layer with the rest of the
 4. In the pop-up box that appears, choose whether to share your layer organizationally or publicly.
 5. Then click the **Edit group sharing** button to share it to the course group.
 6. Select the course group in the list of groups that appears, then click the **OK** button at the bottom right.
+7. Click the **Save** button to Save your changes.
 
 ![Screenshot of the layer sharing options](/images/AO-feature-layer-sharing-options.png)
 
@@ -42,6 +43,7 @@ You can very easily a pull an ArcGIS Online map into a StoryMap to provide narra
 4. In the pop-up box that appears, choose whether to share your layer organizationally or publicly.
 5. Then click the **Edit group sharing** button to share it to the course group.
 6. Select the course group in the list of groups that appears, then click the **OK** button at the bottom right.
+7. Click the **Save** button to Save your changes.
 
 ---
 
