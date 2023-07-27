@@ -19,6 +19,8 @@ In this tutorial, you will work to map the Spanish detective novel location data
 ### Logging In
 Everyone at Grinnell has access to ArcGIS Online through the College. You can access your account by logging in with your Grinnell College credentials at https://grinnell.maps.arcgis.com/home/index.html. It is used in the browser, so you do not need to download anything special onto your computer.
 
+![Screenshot of the ArcGIS Online user homepage](/images/AO-homepage.png)
+
 ### Downloading Data
 If you don't have your own dataset prepped yet, you can download the [dataset](/Progenie_Mapping.csv) for this tutorial from this repository. You’ll upload this data into ArcGIS Online in order to map and analyze it. This dataset is a CSV file that contains location data from Susana Martín Gijón's *Progenie*, compiled by Prof. Phillips.
 
