@@ -17,7 +17,7 @@ ArcGIS Online is a cloud-based online mapping software that allows you to create
 In this tutorial, you will work to map the Spanish detective novel location data that you gathered earlier in the semester.
 
 ### Logging In
-Everyone at Grinnell has access to ArcGIS Online through the College. You can access your account by logging in with your Grinnell College credentials at https://grinnell.maps.arcgis.com/home/index.html. It is used in the browser, so you do not need to download anything special onto your computer.
+Everyone at Grinnell has access to ArcGIS Online through the College. You can access your account by logging in with your Grinnell College credentials at [https://grinnell.maps.arcgis.com/home/index.html](https://grinnell.maps.arcgis.com/home/index.html). It is used in the browser, so you do not need to download anything special onto your computer.
 
 ![Screenshot of the ArcGIS Online user homepage](/images/AO-homepage.png)
 
