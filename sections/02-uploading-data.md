@@ -11,8 +11,7 @@ You will upload your spreadsheet of detective novel location data to ArcGIS Onli
 
 Make sure your data spreadsheet is ready to upload: once it is uploaded to ArcGIS Online, you can change and update the data itself as needed, but you will not be able to change the data structure (spreadsheet headings and categories) without needing to upload a new hosted feature layer.
 
-1. Export your spreadsheet data file as a **CSV**.
-    * If using Excel in the browser, you will need to download your file and convert it from the Excel software application on a computer (as Offcie365 does not let you save as a CSV): go to File > Save As, and select CSV/Comma Separated Values from the dropdown.
+1. Export your spreadsheet data file as a **CSV**. (If using Excel in the browser, you will need to download your file and convert it from the Excel software application on a computer (as Offcie365 does not let you save as a CSV): go to File > Save As, and select CSV/Comma Separated Values from the dropdown.)
 2. Make sure your data is as clean as possible: no duplicate header fields, no extraneous information, etc.
 3. Make sure your filename does not have any spaces or special characters in it.
 4. Log in to ArcGIS Online at https://grinnell.maps.arcgis.com/home/index.html and click **Content** in the navigation menu at the top.
